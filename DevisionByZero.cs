@@ -19,6 +19,5 @@
         Console.WriteLine("Error: Division by zero is not allowed.");
 
         Console.WriteLine("\nPlease enter a non-zero second number.");
-        
     }
 
